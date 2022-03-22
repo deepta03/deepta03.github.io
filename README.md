@@ -14,7 +14,7 @@ To know more about Markdown and how to format a document using it, see [More Res
 
 ## Instructions
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/102154139/159556286-25ef2f6b-bf2a-4ab6-90fe-abdae73840cb.gif)
+![Resume](https://user-images.githubusercontent.com/102154139/159556666-3b9e06d4-aa77-4fef-8f53-569a18e532f4.gif)
 
 ## Authors and Acknowledgments
 
