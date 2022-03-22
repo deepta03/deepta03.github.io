@@ -8,7 +8,7 @@ The purpose of this document is to show step by step how to host a resume online
 
 The only prerequisite for this task is to have a resume ready for the desired position. However, it needs to be formatted in Markdown. So, It is recommended to have some prior research done on it.
 
-Let's take a look at my [resume](https://github.com/deepta370/deepta370.github.io/blob/main/index.md) to see how a Markdown formatted document looks like.
+Let's take a look at my [resume](https://github.com/deepta03/deepta03.github.io/blob/main/index.md) to see how a Markdown formatted document looks like.
 
 To know more about Markdown and how to format a document using it, see [More Resources.](#more-resources)
 
@@ -17,6 +17,17 @@ To know more about Markdown and how to format a document using it, see [More Res
 
 
 ## Authors and Acknowledgments
+
+**Jekyll Dinky Template by**
+
+* Ben Balter 
+* Filipe Tavares
+* Parker Moore
+
+**Group members**
+
+* Joshua Smallwood
+
 
 
 
