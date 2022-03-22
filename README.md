@@ -28,9 +28,23 @@ To know more about Markdown and how to format a document using it, see [More Res
 
 * Joshua Smallwood
 
-
-
-
 ## FAQs
 
+**1. Why is Markdown better than a word processor?**
+
+Andrew Etter nicely explained in his book why Markdown is a better choice than a Word processor. While Word processors do a good job at resume writing and editing or creating PDF, it does not support version control which is essential for documentation. Also, it is difficult to convert a Word file to HTML. On the other hand, Markdown supoorts version control and is suitable for creating websites. Therefore, the fact of it being free, easy to learn sets it apart from a word processior with regard to documentation.
+
+
+**2. Why is my resume not showing up?**
+
+Follow each steps in the instructions carefully. Depending on the theme chosen, you might have to configure and update your your site's _config.yml. For more details, find your theme [here](https://github.com/pages-themes) and take a look at the README.md file.
+
 ## More Resources
+
+* [Markdown Guide](https://www.markdownguide.org)
+
+* [GitHub Pages QuickStart](https://docs.github.com/en/pages/quickstart)
+
+* [GitHub Pages Themes](https://github.com/pages-themes)
+
+
