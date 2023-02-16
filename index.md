@@ -15,7 +15,7 @@ deepta370@gmail.com
 
 Bachelor of Science - Computer Science Major
 
-Expected: May 2022
+February 2023
 
 ## Technical Skills
 
